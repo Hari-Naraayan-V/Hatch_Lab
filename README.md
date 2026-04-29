@@ -1,8 +1,8 @@
-# SmartFlock
+# Hatch Lab
 
 ### IoT-Based Poultry Environmental Monitoring & Control System using ESP32 and Blynk
 
-SmartFlock is an intelligent poultry shed environmental monitoring and automation system built around the **ESP32** microcontroller and **Blynk IoT Cloud**.
+Hatch Lab is an intelligent poultry shed environmental monitoring and automation system built around the **ESP32** microcontroller and **Blynk IoT Cloud**.
 
 It continuously monitors environmental conditions such as:
 
@@ -33,7 +33,7 @@ Poultry sheds produce ammonia from decomposing litter and waste. High ammonia co
 * Reduced growth rate
 * Increased mortality
 
-SmartFlock uses sensors to detect environmental conditions and automatically reacts by controlling fans, motors, and heating systems.
+Hatch Lab uses sensors to detect environmental conditions and automatically reacts by controlling fans, motors, and heating systems.
 
 IoT integration through **Blynk** enables:
 
@@ -195,7 +195,7 @@ Benefits:
 
 # IoT Dashboard (Blynk)
 
-SmartFlock uses **Blynk IoT** for remote monitoring.
+Hatch Lab uses **Blynk IoT** for remote monitoring.
 
 ## Dashboard Features
 
